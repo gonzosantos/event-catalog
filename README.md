@@ -1,1 +1,1 @@
-# My Event Catalog
+# My New Event Catalog
